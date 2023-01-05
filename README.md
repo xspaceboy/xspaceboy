@@ -1,5 +1,4 @@
-#  Experienced Android/iOS Full Stack Developer
-## Hi, I am Chen Kang! 👋 and Experienced Android/iOS Full Stack Developer
+# Hi, I am Chen Kang! 👋 and Experienced Android/iOS Full Stack Developer
 
 ### 💻Tech Stack
 <p align="center">
