@@ -12,7 +12,7 @@ Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ ye
 *   🧠  I'm learning Kotlin
 *   🤝  I'm open to collaborating on Android/Kotlin and iOS Project
 
-### Skills 
+## Skills 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -58,7 +58,7 @@ Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ ye
 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
 </p>
                     
-### My GitHub Stats
+## My GitHub Stats
 <div style="display:flex; align-items: center;">
 <a
     href="http://www.github.com/chenkang-secret"><img src="https://github-readme-stats.vercel.app/api?username=chenkang-secret&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="chenkang-secret's GitHub stats" /></a>
