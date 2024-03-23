@@ -1,17 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-# Hi, I am Chen Kang! 
 ## Experienced Android/iOS Full Stack Developer
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. I am always trying harder to find new and more effective ways to solve problems. I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code. Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=chenkang-secret&column=8)](https://github-profile-trophy.vercel.app/?username=chenkang-secret&column=8)
-
-## About Me
-*   🌍  I'm based in China
-*   ✉️  You can contact me at [chenkang.dev@gmail.com](mailto:chenkang.dev@gmail.com)
-*   🚀  I'm currently working on [](http://)
-*   🧠  I'm learning Kotlin
-*   🤝  I'm open to collaborating on Android/Kotlin and iOS Project
 
 ## Skills 
 <p align="left">
@@ -58,12 +50,3 @@ Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ ye
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
 </p>
-                    
-## My GitHub Stats
-<div style="display:flex; align-items: center;">
-<a
-    href="http://www.github.com/chenkang-secret"><img src="https://github-readme-stats.vercel.app/api?username=chenkang-secret&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="chenkang-secret's GitHub stats" /></a>
-  <a
-    href="http://www.github.com/chenkang-secret"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=chenkang-secret&stroke=ffffff&background=1e3a8a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
