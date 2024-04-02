@@ -1,9 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-## Experienced Android/iOS Full Stack Developer
+## Experienced Full Stack Web & AI Engineer
 Passionate, Collaborative and Highly Skilled Full Stack Web Developer with 6+ years of professional experience in dynamic and deadline-driven work environments. I am always trying harder to find new and more effective ways to solve problems. I love working through all the stages of development and I place a lot of importance on DRY(Don't Repeat Yourself), well-documented, and easy to-maintain and scalable code. Communication with the client is a crucial part of web development and I make it a priority to be responsive as well as report regularly on the development process.
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktopsecrets&column=8)](https://github-profile-trophy.vercel.app/?username=chenkang-secret&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xspaceboy&column=8)](https://github-profile-trophy.vercel.app/?username=chenkang-secret&column=8)
 
 ## Skills 
 <p align="left">
